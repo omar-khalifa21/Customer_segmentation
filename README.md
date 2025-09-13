@@ -26,3 +26,11 @@ This project can be used by businesses to better understand their customers and 
    ```bash
    git clone https://github.com/yourusername/customer-segmentation-app.git
    cd customer-segmentation-app
+2. Create a virtual environment (optional but recommended):
+
+   python -m venv venv
+   source venv/bin/activate  # On Mac/Linux
+   venv\Scripts\activate     # On Windows
+3. Install dependencies:
+
+  pip install -r requirements.txt
